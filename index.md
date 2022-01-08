@@ -16,3 +16,9 @@ La sparx community nasce il 27 ottobre 2020 , da **! Not Lellox#2834** , di tipo
 <a href="https://discord.gg/2KDY6sBzhx">Server Discord </a> <br>
 <a href="https://www.instagram.com/invites/contact/?i=1262y0c0po93s&utm_content=mnjcf6e">Instagram </a> <br> 
 <a href="https://t.me/SparxCommunity">Telegram </a> <br>
+<html>
+  <head></head>
+<body>
+<img src="AnimeRoad.gif">
+  </body>
+</html>
