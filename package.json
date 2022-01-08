@@ -1,0 +1,19 @@
+{
+  "name": "sparx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darth987/sparx.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darth987/sparx/issues"
+  },
+  "homepage": "https://github.com/darth987/sparx#readme"
+}
