@@ -1,10 +1,10 @@
 ## Sparx Community
-<br> <html>
+<html>
   <head></head>
 <body>
 <img src="animepfp1.jpg">
   </body>
-</html><br>
+</html>
 La sparx community nasce il 27 ottobre 2020 , da **! Not Lellox#2834** , di tipo generalista , ma incentrato più sul gaming e sugli anime. Essendo molto attiva nelle partner riesce a proporre il server ad una vasta platea di utenti discordiani.<br>
 <br> Di seguito i link e le statistiche in tempo reale del server <br>
 ## Statistiche
