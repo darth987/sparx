@@ -2,6 +2,12 @@
 <html>
   <head></head>
 <body>
+<img src="HypeSquadBanner.gif">
+  </body>
+</html>
+<html>
+  <head></head>
+<body>
 <img src="animepfp1.jpg">
   </body>
 </html>
